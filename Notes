@@ -1,0 +1,2 @@
+1)Change disk name in GeminiModel\image_caption.py  YourDiskName:\sih
+2)Change COM in EEGSignals\eeg.py  your COM: according arduino IDE
